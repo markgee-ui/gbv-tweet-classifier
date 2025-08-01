@@ -1,6 +1,5 @@
 
-````markdown
-# 🧠 GBV Tweet Classifier App
+## 🧠 GBV Tweet Classifier App
 
 This project aims to support the fight against Gender-Based Violence (GBV) by classifying tweets into specific categories of abuse. By leveraging machine learning, this tool can help highlight patterns and raise awareness, while also informing policy makers and law enforcement.
 
